@@ -1,0 +1,21 @@
+{
+    "base_id": "GP004",
+    "from": "User",
+    "gap_infill_speed": "45",
+    "inherits": "0.20mm Standard @Creality Ender-5 Plus 0.4 nozzle",
+    "initial_layer_infill_speed": "25",
+    "initial_layer_speed": "10.91",
+    "inner_wall_speed": "45",
+    "internal_solid_infill_speed": "45",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard @Creality Ender-5 Plus 0.4 nozzle - @Joren",
+    "outer_wall_speed": "35",
+    "precise_outer_wall": "1",
+    "print_settings_id": "0.20mm Standard @Creality Ender-5 Plus 0.4 nozzle - @Joren",
+    "resolution": "0.03",
+    "sparse_infill_speed": "45",
+    "support_speed": "45",
+    "top_surface_speed": "30",
+    "travel_speed": "180",
+    "version": "26.4.28.19"
+}

@@ -1,0 +1,68 @@
+{
+    "base_id": "GFSA04",
+    "fan_max_speed": [
+        "70"
+    ],
+    "fan_min_speed": [
+        "50"
+    ],
+    "filament_cost": [
+        "18"
+    ],
+    "filament_density": [
+        "1.21"
+    ],
+    "filament_deretraction_speed": [
+        "25"
+    ],
+    "filament_max_volumetric_speed": [
+        "3.5"
+    ],
+    "filament_retraction_length": [
+        "0.6"
+    ],
+    "filament_retraction_speed": [
+        "25"
+    ],
+    "filament_settings_id": [
+        "TPU - Elegoo 95A"
+    ],
+    "filament_type": [
+        "TPU"
+    ],
+    "filament_vendor": [
+        "elegoo"
+    ],
+    "filament_z_hop": [
+        "0.2"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "35"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "40"
+    ],
+    "inherits": "Ender-PLA @Creality Ender-5 Plus 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "TPU - Elegoo 95A",
+    "nozzle_temperature": [
+        "220"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "225"
+    ],
+    "nozzle_temperature_range_low": [
+        "200"
+    ],
+    "overhang_fan_threshold": [
+        "95%"
+    ],
+    "slow_down_layer_time": [
+        "12"
+    ],
+    "temperature_vitrification": [
+        "30"
+    ],
+    "version": "26.4.28.19"
+}
